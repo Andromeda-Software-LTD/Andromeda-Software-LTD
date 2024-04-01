@@ -41,10 +41,9 @@ Não perca a chance de elevar sua segurança digital. Inscreva-se agora mesmo em
 Para saber mais sobre nossa empresa, produtos e serviços, visite nosso site em [https://andromedasoftware.com.br]. Lá você encontrará informações detalhadas, recursos adicionais e a oportunidade de entrar em contato direto com nossa equipe.
 
 🌐 Redes sociais
+
 Canal Youtube https://www.youtube.com/@Andromeda_RAT
 Acesse o site https://andromedasoftware.com.br
-Instagram https://instagram.com/andromeda_software_ltd
 Grupo Telegram https://t.me/Andromeda_Software
-Linkedin https://www.linkedin.com/in/andromeda-software-ltd-994493277/
 Github https://github.com/Andromeda-Software-LTD
-Twitter https://twitter.com/Andromeda__LTD
+Disord andromeda_software_ltd

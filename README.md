@@ -43,7 +43,11 @@ Para saber mais sobre nossa empresa, produtos e serviços, visite nosso site em 
 🌐 Redes sociais
 
 Canal Youtube https://www.youtube.com/@Andromeda_RAT
+
 Acesse o site https://andromedasoftware.com.br
+
 Grupo Telegram https://t.me/Andromeda_Software
+
 Github https://github.com/Andromeda-Software-LTD
+
 Disord andromeda_software_ltd

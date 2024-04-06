@@ -46,7 +46,7 @@ Canal Youtube https://www.youtube.com/@Andromeda_RAT
 
 Acesse o site https://andromedasoftware.com.br
 
-Grupo Telegram https://t.me/Andromeda_Software
+Grupo Telegram https://t.me/AndromedaSoftwareLtd
 
 Github https://github.com/Andromeda-Software-LTD
 
